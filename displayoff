@@ -1,3 +1,4 @@
 #!/bin/bash
-sleep .4
-xset dpms force off
+# sleep .4
+# xset dpms force off
+slock
